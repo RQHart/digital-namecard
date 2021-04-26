@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Wilson;Blair;;;
+FN: Blair  Wilson 
+ORG:Creative Storm;
+TITLE:Business Development Director\nCo Founder
+EMAIL;type=INTERNET;type=WORK;type=pref:blair.wilson@creativestorm.io
+TEL;type=WORK;type=VOICE:+852 6279 1982
+item1.ADR;type=WORK;type=pref:;;Rm 1004 Harvest Buidling\n29-37 Wing Kut Street, Central;;;0;Hong Kong
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:creativestorm.io
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
